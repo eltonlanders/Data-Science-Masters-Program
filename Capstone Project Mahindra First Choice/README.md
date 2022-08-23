@@ -1,5 +1,5 @@
 This was my capstone project during my Masters program at GreyAtom institute. <br>
-The dataset was provided by Mahindra Company (One of India's top automobile company). <br>
+The dataset was provided by Mahindra. <br>
 The function of this project is to understand ownership and spending patterns of customers throughout the country and to calculate customer LTV (Lifetime Value). <br>
 Worked as a team wherein I designed and evaluated a number of ML models out of which Random Forest outperformed the rest. <br>
 Tools used were Pandas, Tableau, Sklearn, Git, SciPy. <br>
